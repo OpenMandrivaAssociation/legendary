@@ -1,5 +1,5 @@
 Name:           legendary
-Version:        0.20.10
+Version:        0.20.12
 Release:        1
 Summary:        Free and open-source replacement for the Epic Games Launcher
 BuildArch:      noarch
@@ -34,7 +34,6 @@ done
 
 %build
 %py_build
-
 
 %install
 %py_install
